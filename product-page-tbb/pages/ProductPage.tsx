@@ -14,7 +14,7 @@ const StyledProductPage = styled.section`
 const StyledTitle = styled.h1`
   font-size: 2.3rem;
   span {
-    color: #109CB1;
+    color: var(--primary-color);
   }
 `;
 const StyledSection = styled.section`
@@ -34,10 +34,10 @@ const StyledFlexwrap = styled.div`
 `;
 const StyledInput = styled.input`
   font-size: 1.5rem;
-  color: #109CB1;
+  color: var(--primary-color);
   height: 30px;
   border: none;
-  border-bottom: #109CB1 solid 2px;
+  border-bottom: var(--primary-color) solid 2px;
   outline: none;
   padding-right: 1.8rem;
   background-image: url('./src/assets/icon-search.png') ;
@@ -45,8 +45,10 @@ const StyledInput = styled.input`
   background-position: right center;
   background-size:20px;
   font-family: 'Roboto', sans-serif;
+  background-color: var(--primary-color-lighter);
+  border-radius: 3px;
   span {
-    color: #109CB1;
+    color: var(--primary-color);
   }
 `;  
 const TitleProducts = styled.h2`

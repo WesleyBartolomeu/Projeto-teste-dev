@@ -8,7 +8,8 @@ export const GlobalStyles = createGlobalStyle`
 
   :root {
     --primary-color: #109CB1;
-    --secondary-color: #E74C3C;
+    --primary-color-lighter:#109bb113;
+    --secondary-color: black;
   }
 
   h1 {
