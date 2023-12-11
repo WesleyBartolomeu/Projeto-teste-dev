@@ -5,7 +5,7 @@ Feito com as seguintes tecnologias
 
 # React + TypeScript + Vite
 
-Ultilizado o StyledComponents como padrao de organizacao de CSS
+Utilizado o StyledComponents como padrao de organizacao de CSS
 
 Pagina criada para avaliacao é 
 
