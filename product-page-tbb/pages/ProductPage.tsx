@@ -5,18 +5,13 @@ import { useState } from 'react';
 import productData from '../products/products-list.json'
 
 const StyledProductPage = styled.section`
-  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
   width: 100%;
   max-width: 1920px;
   margin: 0 auto; 
   padding: 20px; 
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
 `
 const StyledTitle = styled.h1`
-  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
-  font-family: 'Roboto', sans-serif;
-  font-weight: 600;
   font-size: 2.3rem;
   span {
     color: #109CB1;
@@ -55,7 +50,6 @@ const StyledInput = styled.input`
   }
 `;  
 const TitleProducts = styled.h2`
-  font-size: 1.3rem;
   border-bottom: 1px solid;
   width: 100%;
   padding-bottom: 10px;

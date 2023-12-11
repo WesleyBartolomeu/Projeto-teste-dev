@@ -22,8 +22,6 @@ const StyledProductImage = styled.img`
     pointer-events: none;
 `
 const StyledProductName = styled.p`
-    font-family: 'Roboto', sans-serif;
-  font-size: 20px;
   text-align: center;
   pointer-events: none;
 `;

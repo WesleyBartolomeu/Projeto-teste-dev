@@ -11,11 +11,9 @@ const Styledbody = styled.div`
   min-width: 250px;
   font-size: 1.3rem;
   padding-right:5px;
-  font-family: 'Roboto', sans-serif;
 `;
 
 const StyledTitle = styled.h2`
-  font-size: 1.3rem;
   border-bottom: 1px solid  ;
   width: 100%;
   padding-bottom: 10px;
