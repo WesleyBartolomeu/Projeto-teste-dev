@@ -3,6 +3,7 @@ Projeto de teste para vaga de desenvolvedor web Jr
 Feito com as seguintes tecnologias
 
 React + TypeScript + Vite
+Node v18.17.1
 Utilizado o StyledComponents como padrao de organizacao de CSS
 
 Pagina criada para avaliacao é
